@@ -1,0 +1,13 @@
+$primary: #8a4d76;
+$red: red;
+
+@import '~bulma/bulma';
+
+h1 {
+  color: red;
+  font-size: 66px;
+
+  &:hover {
+    color: blue;
+  }
+}
